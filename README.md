@@ -24,3 +24,10 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 2. Aggregate functions: SUM, COUNT, AVG were applied to calculate quantity of orders and revenue
 3. Subqueries and JOINS utilized to combine tables to determine best-selling pizzas by yearly revenue, quantity sold, and monthly revenue
 4. GROUP BY and ORDER BY were used to sort and organize results of queries
+
+### Links
+*  [Tableau Dashboard](https://public.tableau.com/views/PizzaSales_16940433977440/End-Of-YearPizzaSales?:language=en-US&:display_count=n&:origin=viz_share_link)
+*  [Article]()
+
+### Files 
+* [query.sql](https://github.com/bernie236/Pizza-Sales/blob/main/query.sql) is the SQL code for the queries that I used for my analysis.
