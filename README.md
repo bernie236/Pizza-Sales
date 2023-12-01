@@ -27,7 +27,7 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 
 ### Links
 *  [Tableau Dashboard](https://public.tableau.com/views/PizzaSales_16940433977440/End-Of-YearPizzaSales?:language=en-US&:display_count=n&:origin=viz_share_link)
-*  [Article]()
+*  [Article](https://bernie-gonzalez.net/pizza-sales)
 
 ### Files 
 * [query.sql](https://github.com/bernie236/Pizza-Sales/blob/main/query.sql) is the SQL code for the queries that I used for my analysis.
